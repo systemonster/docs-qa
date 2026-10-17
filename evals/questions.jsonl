@@ -1,0 +1,15 @@
+{"question": "How do I clear the uv cache?", "source": "sample_docs/concepts/cache.md"}
+{"question": "How do I change where uv stores its cache directory?", "source": "sample_docs/concepts/cache.md"}
+{"question": "How do I add an extra package index to a project?", "source": "sample_docs/concepts/indexes.md"}
+{"question": "Which file can pin the Python version for a project?", "source": "sample_docs/concepts/python-versions.md"}
+{"question": "Can I use a free-threaded Python build?", "source": "sample_docs/concepts/python-versions.md"}
+{"question": "How does uv resolve dependencies for different platforms at once?", "source": "sample_docs/concepts/resolution.md"}
+{"question": "How do I declare dependencies inside a single Python script?", "source": "sample_docs/guides/scripts.md"}
+{"question": "How do I publish my package to PyPI?", "source": "sample_docs/guides/package.md"}
+{"question": "How do I use the uv build backend instead of setuptools?", "source": "sample_docs/concepts/build-backend.md"}
+{"question": "What is the lockfile called and where is it stored?", "source": "sample_docs/concepts/projects/layout.md"}
+{"question": "How do I install uv on Windows?", "source": "sample_docs/getting-started/installation.md"}
+{"question": "How do I add a dependency that comes from a git repository?", "source": "sample_docs/concepts/projects/dependencies.md"}
+{"question": "How do I upgrade a single locked package to a newer version?", "source": "sample_docs/concepts/projects/sync.md"}
+{"question": "How does the service avoid re-embedding files that did not change?", "source": "README.md"}
+{"question": "How do I switch the answer provider from extractive to an LLM?", "source": "README.md"}
